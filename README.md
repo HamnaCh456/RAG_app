@@ -1,4 +1,4 @@
-## 🧠 RAG Chatbot with Streamlit, Pinecone & Groq
+## 🧠 RAG app with Streamlit, Pinecone & Groq
 
 This project is a **Retrieval-Augmented Generation (RAG) Chatbot** built with **Streamlit** that leverages `LangChain`, `Pinecone`, and `Groq` APIs to answer user queries based on a specific blog post — ["Agents"](https://lilianweng.github.io/posts/2023-06-23-agent/) by Lilian Weng.
 
