@@ -5,7 +5,9 @@ This project is a **Retrieval-Augmented Generation (RAG) Chatbot** built with **
 The app loads and chunks the blog content, embeds and indexes it with Pinecone, and uses **Groq's LLaMA 3.3 model** to generate context-aware responses.
 
 ---
-
+### 🎥 Demo
+     [![Watch the demo]](https://youtu.be/qeXetlr7FE0)
+     
 ### ✅ Features
 
 * 🔍 **Web Scraping & Parsing** using `LangChain`'s `WebBaseLoader`
