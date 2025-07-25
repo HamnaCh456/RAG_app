@@ -6,7 +6,7 @@ The app loads and chunks the blog content, embeds and indexes it with Pinecone, 
 
 ---
 ### 🎥 Demo
-     [Watch the demo](https://youtu.be/qeXetlr7FE0)
+     [![Watch the demo]](https://youtu.be/qeXetlr7FE0)
      
 ### ✅ Features
 
